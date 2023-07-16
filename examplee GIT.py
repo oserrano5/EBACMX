@@ -7,4 +7,4 @@ c = a * b * a + a
 print("El resultado es:", c, "\n")
 
 d = c * 100
-print("Resultado total:", d, "\n)
+print("Resultado total:", d, "\n")
